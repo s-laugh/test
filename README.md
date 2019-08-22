@@ -1,3 +1,3 @@
-# test
+# Test
 
-fancy test project
+My fancy test project.
